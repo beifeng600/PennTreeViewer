@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Class-Path: .  lib\stanford-parser.jar
+Main-Class: com.snailnlp.parse.viewer.ParserView
+Created-By: snail
+
