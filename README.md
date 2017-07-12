@@ -7,7 +7,7 @@
   在Windows系统上，双击“PennTreeViewer.bat”会弹出界面。
   在输入框中输入短语结构句法树，比如 "(ROOT (IP-HLN (NP-PN-SBJ (NR 中国)) (VP (ADVP (AD 将)) (VP (VV 延长) (NP-OBJ (IP-APP (NP-SBJ (NN 外商) (NN 投资) (NN 企业)) (VP (ADVP (AD 免税)) (VP (VV 进口) (NP-OBJ (NN 设备) (CC 和) (NN 原材料))))) (NP (NN 宽限期)))))) ) "
   
-  单机“开始”，在下面的显示框中会显示 树形结构。
+  单击“开始”，在下面的显示框中会显示 树形结构。
   
   
 必要条件：
